@@ -1,0 +1,1918 @@
+[
+  {
+    "file": "assets/res/NewUi/Common/CityFight.ExportJson",
+    "name": "CityFight",
+    "actions": [
+      {
+        "name": "Animation1",
+        "duration": 33,
+        "scale": 0.4
+      }
+    ],
+    "bones": 3,
+    "atlases": [
+      "CityFight.plist"
+    ],
+    "textures": null
+  },
+  {
+    "file": "assets/res/NewUi/Common/UI_map_EX.ExportJson",
+    "name": "UI_map_EX",
+    "actions": [
+      {
+        "name": "UI_map_EX_01",
+        "duration": 51,
+        "scale": 1.0
+      }
+    ],
+    "bones": 2,
+    "atlases": [
+      "UI_map_EX0.plist"
+    ],
+    "textures": [
+      "UI_map_EX0.png"
+    ]
+  },
+  {
+    "file": "assets/res/NewUi/Common/baoxiang.ExportJson",
+    "name": "baoxiang",
+    "actions": [
+      {
+        "name": "Animation1",
+        "duration": 61,
+        "scale": 1.0
+      }
+    ],
+    "bones": 1,
+    "atlases": [
+      "baoxiang0.plist"
+    ],
+    "textures": [
+      "baoxiang0.png"
+    ]
+  },
+  {
+    "file": "assets/res/NewUi/Equipment/LvlUp/wuqishengji_vfx.ExportJson",
+    "name": "wuqishengji_vfx",
+    "actions": [
+      {
+        "name": "Animation2",
+        "duration": 21,
+        "scale": 0.5
+      }
+    ],
+    "bones": 2,
+    "atlases": [
+      "wuqishengji_vfx0.plist"
+    ],
+    "textures": [
+      "wuqishengji_vfx0.png"
+    ]
+  },
+  {
+    "file": "assets/res/NewUi/Shop/UI_zhuangbei_EX_01.ExportJson",
+    "name": "UI_zhuangbei_EX_01",
+    "actions": [
+      {
+        "name": "EX01",
+        "duration": 46,
+        "scale": 1.0
+      }
+    ],
+    "bones": 8,
+    "atlases": [
+      "UI_zhuangbei_EX_010.plist"
+    ],
+    "textures": [
+      "UI_zhuangbei_EX_010.png"
+    ]
+  },
+  {
+    "file": "assets/res/NewUi/Shop/UI_zhuangbei_EX_02.ExportJson",
+    "name": "UI_zhuangbei_EX_02",
+    "actions": [
+      {
+        "name": "EX02",
+        "duration": 51,
+        "scale": 1.0
+      }
+    ],
+    "bones": 8,
+    "atlases": [
+      "UI_zhuangbei_EX_020.plist"
+    ],
+    "textures": [
+      "UI_zhuangbei_EX_020.png"
+    ]
+  },
+  {
+    "file": "assets/res/NewUi/Shop/UI_zhuangbei_EX_03.ExportJson",
+    "name": "UI_zhuangbei_EX_03",
+    "actions": [
+      {
+        "name": "EX03",
+        "duration": 46,
+        "scale": 1.0
+      }
+    ],
+    "bones": 8,
+    "atlases": [
+      "UI_zhuangbei_EX_030.plist",
+      "UI_zhuangbei_EX_031.plist"
+    ],
+    "textures": [
+      "UI_zhuangbei_EX_030.png",
+      "UI_zhuangbei_EX_031.png"
+    ]
+  },
+  {
+    "file": "assets/res/NewUi/Shop/huiyuan.ExportJson",
+    "name": "huiyuan",
+    "actions": [
+      {
+        "name": "huiyuan",
+        "duration": 91,
+        "scale": 0.416666657
+      }
+    ],
+    "bones": 1,
+    "atlases": [
+      "huiyuan0.plist"
+    ],
+    "textures": [
+      "huiyuan0.png"
+    ]
+  },
+  {
+    "file": "assets/res/NewUi/UiEffect/yun.ExportJson",
+    "name": "yun",
+    "actions": [
+      {
+        "name": "guochang",
+        "duration": 23,
+        "scale": 0.4
+      }
+    ],
+    "bones": 20,
+    "atlases": [
+      "yun0.plist"
+    ],
+    "textures": null
+  },
+  {
+    "file": "assets/res/Ui/xiangzi2.ExportJson",
+    "name": "xiangzi2",
+    "actions": [
+      {
+        "name": "dakaixiangzi",
+        "duration": 7,
+        "scale": 0.4
+      },
+      {
+        "name": "dakaixiangzi_2",
+        "duration": 7,
+        "scale": 0.4
+      },
+      {
+        "name": "dakaixiangzi_3",
+        "duration": 7,
+        "scale": 0.4
+      }
+    ],
+    "bones": 3,
+    "atlases": [
+      "xiangzi20.plist"
+    ],
+    "textures": [
+      "xiangzi20.png"
+    ]
+  },
+  {
+    "file": "assets/res/armatures/bucket/daguanzi.ExportJson",
+    "name": "daguanzi",
+    "actions": [
+      {
+        "name": "guanziposui",
+        "duration": 19,
+        "scale": 0.4
+      }
+    ],
+    "bones": 15,
+    "atlases": [
+      "daguanzi0.plist"
+    ],
+    "textures": null
+  },
+  {
+    "file": "assets/res/armatures/bucket/daguanzi02.ExportJson",
+    "name": "daguanzi02",
+    "actions": [
+      {
+        "name": "jinguanziposui",
+        "duration": 19,
+        "scale": 0.4
+      }
+    ],
+    "bones": 17,
+    "atlases": [
+      "daguanzi020.plist"
+    ],
+    "textures": null
+  },
+  {
+    "file": "assets/res/armatures/chuibing/chuibingdonghua.ExportJson",
+    "name": "chuibingdonghua",
+    "actions": [
+      {
+        "name": "chuibingzoulu",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "chuibinghuxi",
+        "duration": 19,
+        "scale": 0.4
+      },
+      {
+        "name": "chuibinggongji03",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "chuibinggongji05",
+        "duration": 41,
+        "scale": 0.333333343
+      },
+      {
+        "name": "chuibingsiwang01",
+        "duration": 25,
+        "scale": 0.333333343
+      },
+      {
+        "name": "chuibingsiwang02",
+        "duration": 40,
+        "scale": 0.333333343
+      },
+      {
+        "name": "chuibingbeigongji",
+        "duration": 10,
+        "scale": 0.333333343
+      },
+      {
+        "name": "chuibingbeigongji02",
+        "duration": 20,
+        "scale": 0.333333343
+      },
+      {
+        "name": "chuibinggongji01",
+        "duration": 30,
+        "scale": 0.333333343
+      },
+      {
+        "name": "锤兵攻击备份",
+        "duration": 36,
+        "scale": 0.4
+      },
+      {
+        "name": "chuibinggongji0001",
+        "duration": 16,
+        "scale": 0.4
+      },
+      {
+        "name": "chuibinggongji0002",
+        "duration": 20,
+        "scale": 0.4
+      },
+      {
+        "name": "chuibingchuzhua",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "chuibinghuxi_改",
+        "duration": 20,
+        "scale": 0.4
+      },
+      {
+        "name": "chuibinggongji04",
+        "duration": 46,
+        "scale": 0.333333343
+      },
+      {
+        "name": "chuibinggongji06",
+        "duration": 33,
+        "scale": 0.333333343
+      },
+      {
+        "name": "chuibinggongji07",
+        "duration": 22,
+        "scale": 0.4
+      },
+      {
+        "name": "chuibingsiwang03",
+        "duration": 20,
+        "scale": 0.333333343
+      }
+    ],
+    "bones": 19,
+    "atlases": [
+      "chuibingdonghua0.plist"
+    ],
+    "textures": null
+  },
+  {
+    "file": "assets/res/armatures/daobing/daobingdonghua.ExportJson",
+    "name": "daobingdonghua",
+    "actions": [
+      {
+        "name": "daobinghuxi",
+        "duration": 28,
+        "scale": 0.4
+      },
+      {
+        "name": "daobingzoulu",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "daobingbeiji",
+        "duration": 7,
+        "scale": 0.4
+      },
+      {
+        "name": "daobingbeiji2",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "daobinggongji03",
+        "duration": 14,
+        "scale": 0.4
+      },
+      {
+        "name": "daobingdead",
+        "duration": 24,
+        "scale": 0.4
+      },
+      {
+        "name": "daobingfangyu",
+        "duration": 13,
+        "scale": 0.4
+      },
+      {
+        "name": "daobingdead2",
+        "duration": 48,
+        "scale": 0.4
+      },
+      {
+        "name": "daobingfangyu2",
+        "duration": 15,
+        "scale": 0.4
+      },
+      {
+        "name": "daobingzoulu_qu dun",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "daobinghuxi_qudun",
+        "duration": 28,
+        "scale": 0.4
+      },
+      {
+        "name": "daobingbeiji_qudun",
+        "duration": 7,
+        "scale": 0.4
+      },
+      {
+        "name": "daobingbeiji2_qudun",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "daobinggongji_qudun",
+        "duration": 14,
+        "scale": 0.4
+      },
+      {
+        "name": "daobingdead_qudun",
+        "duration": 24,
+        "scale": 0.4
+      },
+      {
+        "name": "daobingdead2_qudun",
+        "duration": 43,
+        "scale": 0.4
+      },
+      {
+        "name": "daobinggongji",
+        "duration": 14,
+        "scale": 0.4
+      },
+      {
+        "name": "daobinggongji02",
+        "duration": 51,
+        "scale": 0.4
+      },
+      {
+        "name": "daobinggongji02_qudun",
+        "duration": 37,
+        "scale": 0.4
+      },
+      {
+        "name": "daobingdead3",
+        "duration": 25,
+        "scale": 0.4
+      },
+      {
+        "name": "daobingdead3_qudun",
+        "duration": 26,
+        "scale": 0.4
+      },
+      {
+        "name": "daobingzoulu2",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "daobinggongji04",
+        "duration": 25,
+        "scale": 0.4
+      },
+      {
+        "name": "daobinggongji03_qudun",
+        "duration": 20,
+        "scale": 0.4
+      },
+      {
+        "name": "daobinggongji04_qudun",
+        "duration": 29,
+        "scale": 0.4
+      }
+    ],
+    "bones": 19,
+    "atlases": [
+      "daobingdonghua0.plist"
+    ],
+    "textures": null
+  },
+  {
+    "file": "assets/res/armatures/effect/hitEffect/shoujiguangxiao2.ExportJson",
+    "name": "shoujiguangxiao2",
+    "actions": [
+      {
+        "name": "Animation1",
+        "duration": 10,
+        "scale": 0.6666667
+      }
+    ],
+    "bones": 1,
+    "atlases": [
+      "shoujiguangxiao20.plist"
+    ],
+    "textures": null
+  },
+  {
+    "file": "assets/res/armatures/fashi/anheishushi1.ExportJson",
+    "name": "anheishushi1",
+    "actions": [
+      {
+        "name": "待机",
+        "duration": 27,
+        "scale": 0.4
+      },
+      {
+        "name": "攻击-旋转收回",
+        "duration": 25,
+        "scale": 0.4
+      },
+      {
+        "name": "攻击-旋转击出/收回",
+        "duration": 25,
+        "scale": 0.4
+      },
+      {
+        "name": "攻击-旋转收回2",
+        "duration": 22,
+        "scale": 0.4
+      },
+      {
+        "name": "攻击-1",
+        "duration": 17,
+        "scale": 0.4
+      },
+      {
+        "name": "跑步",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "受伤",
+        "duration": 11,
+        "scale": 0.4
+      },
+      {
+        "name": "死亡",
+        "duration": 17,
+        "scale": 0.4
+      },
+      {
+        "name": "走路",
+        "duration": 20,
+        "scale": 0.4
+      },
+      {
+        "name": "死亡2",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "死亡3",
+        "duration": 17,
+        "scale": 0.4
+      },
+      {
+        "name": "攻击-旋转收回2_Copy1",
+        "duration": 29,
+        "scale": 0.4
+      },
+      {
+        "name": "攻击-跳起来回",
+        "duration": 24,
+        "scale": 0.4
+      }
+    ],
+    "bones": 23,
+    "atlases": [
+      "anheishushi0.plist"
+    ],
+    "textures": null
+  },
+  {
+    "file": "assets/res/armatures/ganfuren/ganfuren.ExportJson",
+    "name": "ganfuren",
+    "actions": [
+      {
+        "name": "呼吸",
+        "duration": 31,
+        "scale": 0.4
+      },
+      {
+        "name": "走路",
+        "duration": 16,
+        "scale": 0.4
+      },
+      {
+        "name": "死亡",
+        "duration": 30,
+        "scale": 0.4
+      }
+    ],
+    "bones": 23,
+    "atlases": [
+      "ganfuren0.plist"
+    ],
+    "textures": null
+  },
+  {
+    "file": "assets/res/armatures/gongbing/gongbing.ExportJson",
+    "name": "gongbing",
+    "actions": [
+      {
+        "name": "gongbingzoulu",
+        "duration": 21,
+        "scale": 0.366666675
+      },
+      {
+        "name": "gongbinghuxi",
+        "duration": 38,
+        "scale": 0.4
+      },
+      {
+        "name": "gongbingbeiji",
+        "duration": 5,
+        "scale": 0.4
+      },
+      {
+        "name": "gongbingbeiji2",
+        "duration": 15,
+        "scale": 0.4
+      },
+      {
+        "name": "gongbingdead",
+        "duration": 27,
+        "scale": 0.4
+      },
+      {
+        "name": "gongbingdead2",
+        "duration": 30,
+        "scale": 0.4
+      },
+      {
+        "name": "gongbinggongji",
+        "duration": 52,
+        "scale": 0.4
+      },
+      {
+        "name": "gongbinggongji_改_",
+        "duration": 50,
+        "scale": 0.4
+      },
+      {
+        "name": "gongbingdead2_改",
+        "duration": 29,
+        "scale": 0.4
+      },
+      {
+        "name": "gongbingdead_改",
+        "duration": 27,
+        "scale": 0.4
+      },
+      {
+        "name": "gongbingbeiji2_改",
+        "duration": 9,
+        "scale": 0.4
+      },
+      {
+        "name": "gongbingbeiji_改",
+        "duration": 8,
+        "scale": 0.4
+      },
+      {
+        "name": "gongbinghuxi_改",
+        "duration": 30,
+        "scale": 0.4
+      },
+      {
+        "name": "gongbinggongji2_连射",
+        "duration": 73,
+        "scale": 0.4
+      }
+    ],
+    "bones": 20,
+    "atlases": [
+      "gongbing0.plist"
+    ],
+    "textures": null
+  },
+  {
+    "file": "assets/res/armatures/gongsunzan/gongsunzan-daotixing.ExportJson",
+    "name": "gongsunzan-daotixing",
+    "actions": [
+      {
+        "name": "gongsunzanpao",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzanbeiji01",
+        "duration": 8,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzanbeiji02",
+        "duration": 13,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzanhuxi_Copy1",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji02",
+        "duration": 13,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzansiwang02",
+        "duration": 20,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzanchuzhua",
+        "duration": 19,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji001",
+        "duration": 16,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji002",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji007",
+        "duration": 16,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzansiwang03",
+        "duration": 20,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzansiwang05",
+        "duration": 15,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji07---备份",
+        "duration": 39,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji04",
+        "duration": 33,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji03---备份",
+        "duration": 41,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji07",
+        "duration": 39,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji06_带光效",
+        "duration": 23,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji05_带光效",
+        "duration": 26,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji03_带光效---备份",
+        "duration": 41,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji03_带光效",
+        "duration": 41,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzansiwang04_跪地",
+        "duration": 9,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzanpaobu",
+        "duration": 16,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzanqianchong",
+        "duration": 25,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzanhouchong",
+        "duration": 25,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzanhoutui",
+        "duration": 16,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji02_lianji",
+        "duration": 10,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji007_lianji",
+        "duration": 12,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji001_lianji",
+        "duration": 10,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji03_lianji",
+        "duration": 25,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji03_带光效_Copy1",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji射箭",
+        "duration": 31,
+        "scale": 0.4
+      }
+    ],
+    "bones": 28,
+    "atlases": [
+      "gongsunzan-jiantixing0.png",
+      "gongsunzan-jiantixing1.png"
+    ],
+    "textures": [
+      "gongsunzan-jiantixing0.png",
+      "gongsunzan-jiantixing1.png"
+    ]
+  },
+  {
+    "file": "assets/res/armatures/gongsunzan/gongsunzan-jiantixing.ExportJson",
+    "name": "gongsunzan-jiantixing",
+    "actions": [
+      {
+        "name": "gongsunzanbeiji01_jian",
+        "duration": 9,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzanbeiji02_jian",
+        "duration": 17,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzanhuxi_huxi",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzansiwang02_jian",
+        "duration": 20,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzansiwang01_jian",
+        "duration": 30,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzanpao_jian",
+        "duration": 20,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji_jian_预览",
+        "duration": 50,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji01_jian_预览",
+        "duration": 48,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji_jian_001",
+        "duration": 9,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji_jian_002",
+        "duration": 11,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji_jian_003",
+        "duration": 23,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji01_jian_102",
+        "duration": 20,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji01_jian_201",
+        "duration": 9,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji01_jian_202",
+        "duration": 4,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji01_jian_203",
+        "duration": 3,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji_jian_500",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji_jian_401",
+        "duration": 15,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzansiwang03_jian",
+        "duration": 24,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji_jian_402",
+        "duration": 20,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji_jian_000",
+        "duration": 9,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzanpao_jian_paobu",
+        "duration": 16,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzanpao_jian_qianchong",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzanpao_jian_houchong",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzanpao_jian_houtui",
+        "duration": 16,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji01_jian_201_lianji",
+        "duration": 11,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji01_jian_202_lianji",
+        "duration": 6,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji_jian_002_lianji",
+        "duration": 10,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji_jian_003_lianji",
+        "duration": 12,
+        "scale": 0.4
+      },
+      {
+        "name": "gongsunzangongji01_jian_102_lianji",
+        "duration": 15,
+        "scale": 0.4
+      }
+    ],
+    "bones": 27,
+    "atlases": [
+      "gongsunzan-jiantixing0.plist",
+      "gongsunzan-jiantixing1.plist"
+    ],
+    "textures": [
+      "gongsunzan-jiantixing0.png",
+      "gongsunzan-jiantixing1.png"
+    ]
+  },
+  {
+    "file": "assets/res/armatures/guanyu/guanyu.ExportJson",
+    "name": "guanyu",
+    "actions": [
+      {
+        "name": "guanyuhuxi",
+        "duration": 31,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyupaobu",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyuzoulu",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyubeigongji",
+        "duration": 11,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyubeigongji2",
+        "duration": 5,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyusiwang",
+        "duration": 32,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangjianggongji_2",
+        "duration": 40,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangjianggongji_3",
+        "duration": 32,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangjianggongji",
+        "duration": 15,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyugongji",
+        "duration": 29,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyugongji_2",
+        "duration": 44,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyugongji_4",
+        "duration": 42,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangjianggongji_1",
+        "duration": 26,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyugongji_3",
+        "duration": 42,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangjianggongji_3_加长",
+        "duration": 41,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangjianggongji_加长",
+        "duration": 26,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyugongji_加长",
+        "duration": 39,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyugongji_2_加长",
+        "duration": 50,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyugongji_4_加长",
+        "duration": 49,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangjianggongji_1_加长",
+        "duration": 31,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyugongji_3_加长",
+        "duration": 47,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyuhoutui",
+        "duration": 15,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyuchongci",
+        "duration": 26,
+        "scale": 0.533333361
+      },
+      {
+        "name": "guanyuhouchong",
+        "duration": 25,
+        "scale": 0.533333361
+      },
+      {
+        "name": "guanyushibai",
+        "duration": 12,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangjianggongji_lianji",
+        "duration": 13,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyugongji_lianji",
+        "duration": 16,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangjianggongji_3_lianji",
+        "duration": 24,
+        "scale": 0.4
+      },
+      {
+        "name": "guanyugongji_3_lianji",
+        "duration": 23,
+        "scale": 0.4
+      }
+    ],
+    "bones": 28,
+    "atlases": [
+      "guanyu0.plist"
+    ],
+    "textures": [
+      "guanyu0.png"
+    ]
+  },
+  {
+    "file": "assets/res/armatures/guanyuchibaozi/guanyuchibaozi.ExportJson",
+    "name": "guanyuchibaozi",
+    "actions": [
+      {
+        "name": "eat_01",
+        "duration": 1,
+        "scale": 1.0
+      },
+      {
+        "name": "eat_03",
+        "duration": 36,
+        "scale": 1.0
+      },
+      {
+        "name": "eat_04",
+        "duration": 50,
+        "scale": 1.0
+      },
+      {
+        "name": "eat_05",
+        "duration": 11,
+        "scale": 1.0
+      }
+    ],
+    "bones": 11,
+    "atlases": [
+      "guanyuchibaozi0.plist"
+    ],
+    "textures": [
+      "guanyuchibaozi0.png"
+    ]
+  },
+  {
+    "file": "assets/res/armatures/lvbu/lvbu.ExportJson",
+    "name": "lvbu",
+    "actions": [
+      {
+        "name": "待机",
+        "duration": 31,
+        "scale": 0.4
+      },
+      {
+        "name": "受伤2",
+        "duration": 13,
+        "scale": 0.4
+      },
+      {
+        "name": "走路",
+        "duration": 20,
+        "scale": 0.4
+      },
+      {
+        "name": "死亡",
+        "duration": 15,
+        "scale": 0.4
+      },
+      {
+        "name": "跳起砍击-勾起",
+        "duration": 53,
+        "scale": 0.4
+      },
+      {
+        "name": "打雷",
+        "duration": 14,
+        "scale": 0.4
+      },
+      {
+        "name": "单手直刺",
+        "duration": 32,
+        "scale": 0.533333361
+      },
+      {
+        "name": "双手直刺",
+        "duration": 38,
+        "scale": 0.5
+      },
+      {
+        "name": "双手直刺_未加长",
+        "duration": 23,
+        "scale": 0.5
+      },
+      {
+        "name": "死亡2",
+        "duration": 25,
+        "scale": 0.4
+      },
+      {
+        "name": "死亡3",
+        "duration": 28,
+        "scale": 0.4
+      },
+      {
+        "name": "射箭",
+        "duration": 59,
+        "scale": 0.4
+      },
+      {
+        "name": "跳起旋转-砍击__双手",
+        "duration": 38,
+        "scale": 0.4
+      },
+      {
+        "name": "斜刺-加强_双手",
+        "duration": 36,
+        "scale": 0.533333361
+      },
+      {
+        "name": "跑步",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "站立旋转-砍击_双手",
+        "duration": 35,
+        "scale": 0.4
+      },
+      {
+        "name": "跳起砍击",
+        "duration": 26,
+        "scale": 0.4
+      },
+      {
+        "name": "勾起",
+        "duration": 26,
+        "scale": 0.4
+      },
+      {
+        "name": "后跑",
+        "duration": 15,
+        "scale": 0.4
+      }
+    ],
+    "bones": 38,
+    "atlases": [
+      "lvbu0.plist",
+      "lvbu1.plist"
+    ],
+    "textures": null
+  },
+  {
+    "file": "assets/res/armatures/pikeman/qiangbingdonghua.ExportJson",
+    "name": "qiangbingdonghua",
+    "actions": [
+      {
+        "name": "qiangbingzoulu",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangbinggongji",
+        "duration": 10,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangbinghuxi",
+        "duration": 24,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangbingsiwang",
+        "duration": 34,
+        "scale": 0.533333361
+      },
+      {
+        "name": "qiangbingbeigongji",
+        "duration": 8,
+        "scale": 0.533333361
+      },
+      {
+        "name": "qiangbingbeigongji02",
+        "duration": 10,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangbingsiwang_houtan1",
+        "duration": 19,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangbingsiwang_houtan2",
+        "duration": 19,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangbingbeigongji_Copy1",
+        "duration": 6,
+        "scale": 0.533333361
+      },
+      {
+        "name": "qiangbinggongji_2",
+        "duration": 15,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangbingsiwang02",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangbingsiwang03",
+        "duration": 22,
+        "scale": 0.4
+      },
+      {
+        "name": "qiangbinggongji03",
+        "duration": 27,
+        "scale": 0.4
+      }
+    ],
+    "bones": 17,
+    "atlases": [
+      "qiangbingdonghua0.plist"
+    ],
+    "textures": null
+  },
+  {
+    "file": "assets/res/armatures/sunshangxiang/suenshangxiang.ExportJson",
+    "name": "suenshangxiang",
+    "actions": [
+      {
+        "name": "走路",
+        "duration": 19,
+        "scale": 0.4
+      },
+      {
+        "name": "受伤",
+        "duration": 9,
+        "scale": 0.4
+      },
+      {
+        "name": "失败",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "砍跳",
+        "duration": 30,
+        "scale": 0.4
+      },
+      {
+        "name": "连续砍击",
+        "duration": 27,
+        "scale": 0.4
+      },
+      {
+        "name": "单手双手刺击",
+        "duration": 27,
+        "scale": 0.4
+      },
+      {
+        "name": "横劈",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "待机",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "转刺+插",
+        "duration": 49,
+        "scale": 0.5
+      },
+      {
+        "name": "跳起劈下",
+        "duration": 56,
+        "scale": 0.5
+      },
+      {
+        "name": "转刺-拆",
+        "duration": 32,
+        "scale": 0.5
+      },
+      {
+        "name": "插-拆",
+        "duration": 19,
+        "scale": 0.5
+      },
+      {
+        "name": "死亡",
+        "duration": 20,
+        "scale": 0.4
+      },
+      {
+        "name": "飞吻",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "跳起-拆",
+        "duration": 31,
+        "scale": 0.5
+      },
+      {
+        "name": "劈下-拆",
+        "duration": 27,
+        "scale": 0.5
+      },
+      {
+        "name": "貂蝉走路",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "转转乱刺",
+        "duration": 56,
+        "scale": 0.4
+      },
+      {
+        "name": "孙尚香跑",
+        "duration": 14,
+        "scale": 0.4
+      },
+      {
+        "name": "待机2",
+        "duration": 24,
+        "scale": 0.4
+      },
+      {
+        "name": "貂蝉跑",
+        "duration": 14,
+        "scale": 0.4
+      },
+      {
+        "name": "貂蝉前冲",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "貂蝉后冲",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "貂蝉后退",
+        "duration": 16,
+        "scale": 0.4
+      },
+      {
+        "name": "插-连击",
+        "duration": 15,
+        "scale": 0.5
+      },
+      {
+        "name": "跳起-连击",
+        "duration": 16,
+        "scale": 0.5
+      },
+      {
+        "name": "劈下-连击",
+        "duration": 20,
+        "scale": 0.5
+      },
+      {
+        "name": "转转乱刺_连击",
+        "duration": 38,
+        "scale": 0.4
+      }
+    ],
+    "bones": 29,
+    "atlases": [
+      "suenshangxiang0.plist"
+    ],
+    "textures": [
+      "suenshangxiang0.png"
+    ]
+  },
+  {
+    "file": "assets/res/armatures/zhangfeichibaozi/zhangfeichibaozi.ExportJson",
+    "name": "zhangfeichibaozi",
+    "actions": [
+      {
+        "name": "eat_01",
+        "duration": 1,
+        "scale": 1.0
+      },
+      {
+        "name": "eat_03",
+        "duration": 60,
+        "scale": 1.0
+      },
+      {
+        "name": "eat_04",
+        "duration": 54,
+        "scale": 1.0
+      },
+      {
+        "name": "eat_05",
+        "duration": 11,
+        "scale": 1.0
+      }
+    ],
+    "bones": 11,
+    "atlases": [
+      "zhangfeichibaozi0.plist"
+    ],
+    "textures": [
+      "zhangfeichibaozi0.png"
+    ]
+  },
+  {
+    "file": "assets/res/armatures/zhaoyun/zhaoyun.ExportJson",
+    "name": "zhaoyun",
+    "actions": [
+      {
+        "name": "跑步",
+        "duration": 16,
+        "scale": 0.4
+      },
+      {
+        "name": "呼吸",
+        "duration": 55,
+        "scale": 0.4
+      },
+      {
+        "name": "后退",
+        "duration": 12,
+        "scale": 0.4
+      },
+      {
+        "name": "被攻击",
+        "duration": 11,
+        "scale": 0.4
+      },
+      {
+        "name": "失败",
+        "duration": 13,
+        "scale": 0.4
+      },
+      {
+        "name": "攻击3_站立砍击",
+        "duration": 17,
+        "scale": 0.533333361
+      },
+      {
+        "name": "攻击4_跃起砍击",
+        "duration": 33,
+        "scale": 0.533333361
+      },
+      {
+        "name": "攻击5_踢腿砍 总合",
+        "duration": 41,
+        "scale": 0.533333361
+      },
+      {
+        "name": "攻击6_踢腿",
+        "duration": 12,
+        "scale": 0.533333361
+      },
+      {
+        "name": "攻击7_旋转砍",
+        "duration": 29,
+        "scale": 0.533333361
+      },
+      {
+        "name": "失败_改",
+        "duration": 11,
+        "scale": 0.4
+      },
+      {
+        "name": "后退_改",
+        "duration": 15,
+        "scale": 0.4
+      },
+      {
+        "name": "攻击5_踢腿砍 总合_改",
+        "duration": 50,
+        "scale": 0.533333361
+      },
+      {
+        "name": "跑步_加强",
+        "duration": 15,
+        "scale": 0.4
+      },
+      {
+        "name": "攻击2_直线刺击",
+        "duration": 12,
+        "scale": 0.533333361
+      },
+      {
+        "name": "攻击4_跃起砍击_加强",
+        "duration": 29,
+        "scale": 0.533333361
+      },
+      {
+        "name": "横劈",
+        "duration": 21,
+        "scale": 0.5
+      },
+      {
+        "name": "攻击_跃起旋转砍击",
+        "duration": 49,
+        "scale": 0.533333361
+      },
+      {
+        "name": "跑步_改",
+        "duration": 13,
+        "scale": 0.4
+      },
+      {
+        "name": "冲刺",
+        "duration": 21,
+        "scale": 0.533333361
+      },
+      {
+        "name": "冲刺_2",
+        "duration": 25,
+        "scale": 0.533333361
+      },
+      {
+        "name": "后冲",
+        "duration": 25,
+        "scale": 0.533333361
+      },
+      {
+        "name": "冲刺_2_Copy1",
+        "duration": 25,
+        "scale": 0.533333361
+      },
+      {
+        "name": "攻击1-斜方刺击",
+        "duration": 12,
+        "scale": 0.533333361
+      },
+      {
+        "name": "锤子",
+        "duration": 18,
+        "scale": 0.533333361
+      },
+      {
+        "name": "界面loading",
+        "duration": 80,
+        "scale": 0.4
+      }
+    ],
+    "bones": 45,
+    "atlases": [
+      "zhaoyun0.plist",
+      "zhaoyun1.plist",
+      "zhaoyun2.plist"
+    ],
+    "textures": [
+      "zhaoyun0.png",
+      "zhaoyun1.png",
+      "zhaoyun2.png"
+    ]
+  },
+  {
+    "file": "assets/res/armatures/zhaoyunchibaozi/zhaoyunchibaozi.ExportJson",
+    "name": "zhaoyunchibaozi",
+    "actions": [
+      {
+        "name": "eat_01",
+        "duration": 1,
+        "scale": 1.0
+      },
+      {
+        "name": "eat_05",
+        "duration": 11,
+        "scale": 1.0
+      },
+      {
+        "name": "eat_03",
+        "duration": 60,
+        "scale": 1.0
+      },
+      {
+        "name": "eat_04",
+        "duration": 55,
+        "scale": 1.0
+      }
+    ],
+    "bones": 12,
+    "atlases": [
+      "zhaoyunchibaozi0.plist"
+    ],
+    "textures": [
+      "zhaoyunchibaozi0.png"
+    ]
+  },
+  {
+    "file": "assets/res/armatures/zhugeliang/zugeliang.ExportJson",
+    "name": "zugeliang",
+    "actions": [
+      {
+        "name": "呼吸",
+        "duration": 31,
+        "scale": 0.4
+      },
+      {
+        "name": "走路",
+        "duration": 21,
+        "scale": 0.4
+      },
+      {
+        "name": "受伤",
+        "duration": 14,
+        "scale": 0.4
+      },
+      {
+        "name": "失败",
+        "duration": 27,
+        "scale": 0.4
+      },
+      {
+        "name": "普通攻击",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "攻击_Copy2",
+        "duration": 25,
+        "scale": 0.4
+      },
+      {
+        "name": "普通攻击_拂尘",
+        "duration": 18,
+        "scale": 0.4
+      },
+      {
+        "name": "攻击_Copy2_拂尘",
+        "duration": 25,
+        "scale": 0.4
+      }
+    ],
+    "bones": 30,
+    "atlases": [
+      "zugeliang0.plist"
+    ],
+    "textures": [
+      "zugeliang0.png"
+    ]
+  },
+  {
+    "file": "assets/res/comic/Comic/Comic.ExportJson",
+    "name": "Comic",
+    "actions": [
+      {
+        "name": "Animation1",
+        "duration": 166,
+        "scale": 0.5
+      },
+      {
+        "name": "Animation2",
+        "duration": 150,
+        "scale": 0.5
+      },
+      {
+        "name": "Animation3",
+        "duration": 155,
+        "scale": 0.5
+      },
+      {
+        "name": "Animation4",
+        "duration": 150,
+        "scale": 0.5
+      },
+      {
+        "name": "Animation5",
+        "duration": 252,
+        "scale": 1.0
+      },
+      {
+        "name": "Animation6",
+        "duration": 207,
+        "scale": 0.8333333
+      },
+      {
+        "name": "Animation7",
+        "duration": 120,
+        "scale": 1.0
+      }
+    ],
+    "bones": 49,
+    "atlases": [
+      "comic/comic.plist",
+      "Comic0.plist",
+      "Comic1.plist",
+      "Comic2.plist",
+      "Comic3.plist",
+      "Comic4.plist",
+      "Comic5.plist",
+      "Comic6.plist",
+      "Comic7.plist",
+      "Comic8.plist",
+      "Comic9.plist",
+      "comic/comic.plist"
+    ],
+    "textures": [
+      "comic.png",
+      "Comic0.png",
+      "Comic1.png",
+      "Comic2.png",
+      "Comic3.png",
+      "Comic4.png",
+      "Comic5.png",
+      "Comic6.png",
+      "Comic7.png",
+      "Comic8.png",
+      "Comic9.png",
+      "comic.png"
+    ]
+  },
+  {
+    "file": "assets/res/effect/Byz/riyuezhan.ExportJson",
+    "name": "riyuezhan",
+    "actions": [
+      {
+        "name": "riyuezhan2-26",
+        "duration": 5,
+        "scale": 0.4
+      }
+    ],
+    "bones": 1,
+    "atlases": [
+      "riyuezhan0.plist"
+    ],
+    "textures": null
+  },
+  {
+    "file": "assets/res/game_obj/ZhugeArrow/gongnuche.ExportJson",
+    "name": "gongnuche",
+    "actions": [
+      {
+        "name": "run",
+        "duration": 25,
+        "scale": 0.4
+      },
+      {
+        "name": "attack_02",
+        "duration": 2,
+        "scale": 0.4
+      },
+      {
+        "name": "attack_01",
+        "duration": 36,
+        "scale": 0.4
+      }
+    ],
+    "bones": 16,
+    "atlases": [
+      "gongnuche0.plist"
+    ],
+    "textures": [
+      "gongnuche0.png"
+    ]
+  },
+  {
+    "file": "assets/res/game_obj/stoneMachine/toushiche.ExportJson",
+    "name": "toushiche",
+    "actions": [
+      {
+        "name": "move",
+        "duration": 25,
+        "scale": 0.4
+      },
+      {
+        "name": "attack",
+        "duration": 21,
+        "scale": 0.4
+      }
+    ],
+    "bones": 14,
+    "atlases": [
+      "toushiche0.plist"
+    ],
+    "textures": [
+      "toushiche0.png"
+    ]
+  }
+]

@@ -1,0 +1,404 @@
+[
+  {
+    "tag": "manifest",
+    "attributes": {
+      "versionCode": 6,
+      "versionName": "1.0.5",
+      "installLocation": 0,
+      "package": "com.koogame.sanguo3"
+    }
+  },
+  {
+    "tag": "uses-sdk",
+    "attributes": {
+      "minSdkVersion": 9,
+      "targetSdkVersion": 10
+    }
+  },
+  {
+    "tag": "supports-screens",
+    "attributes": {
+      "anyDensity": 4294967295,
+      "smallScreens": 4294967295,
+      "normalScreens": 4294967295,
+      "largeScreens": 4294967295,
+      "xlargeScreens": 4294967295
+    }
+  },
+  {
+    "tag": "uses-feature",
+    "attributes": {
+      "glEsVersion": 131072
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "android.permission.INTERNET"
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "android.permission.CHANGE_NETWORK_STATE"
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "android.permission.CHANGE_WIFI_STATE"
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "android.permission.ACCESS_NETWORK_STATE"
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "android.permission.ACCESS_WIFI_STATE"
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "android.permission.READ_PHONE_STATE"
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "android.permission.MOUNT_UNMOUNT_FILESYSTEMS"
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": ""
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "android.permission.ACCESS_COARSE_LOCATION"
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "android.permission.READ_EXTERNAL_STORAGE"
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "android.permission.VIBRATE"
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "android.permission.GET_PACKAGE_SIZE"
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "android.permission.WRITE_SETTINGS"
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "android.permission.CALL_PHONE"
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+    }
+  },
+  {
+    "tag": "uses-permission",
+    "attributes": {
+      "name": "com.android.launcher.permission.UNINSTALL_SHORTCUT"
+    }
+  },
+  {
+    "tag": "application",
+    "attributes": {
+      "label": 2130968577,
+      "icon": 2130837583,
+      "name": "com.koogame.sanguo3.MyApplication",
+      "allowBackup": 4294967295
+    }
+  },
+  {
+    "tag": "activity",
+    "attributes": {
+      "theme": 16973831,
+      "label": 2130968577,
+      "name": "cn.egame.terminal.paysdk.EgameLaunchActivity",
+      "screenOrientation": 6,
+      "configChanges": 128
+    }
+  },
+  {
+    "tag": "intent-filter",
+    "attributes": {}
+  },
+  {
+    "tag": "action",
+    "attributes": {
+      "name": "android.intent.action.MAIN"
+    }
+  },
+  {
+    "tag": "category",
+    "attributes": {
+      "name": "android.intent.category.LAUNCHER"
+    }
+  },
+  {
+    "tag": "activity",
+    "attributes": {
+      "theme": 16973838,
+      "name": "com.koogame.sanguo3.MotorActivity",
+      "screenOrientation": 6,
+      "configChanges": 1152
+    }
+  },
+  {
+    "tag": "activity",
+    "attributes": {
+      "theme": 16973841,
+      "name": "cn.egame.terminal.paysdk.EgamePayActivity",
+      "screenOrientation": 6,
+      "configChanges": 1184
+    }
+  },
+  {
+    "tag": "receiver",
+    "attributes": {
+      "name": "cn.egame.terminal.sdk.EgameCoreReceiver"
+    }
+  },
+  {
+    "tag": "intent-filter",
+    "attributes": {
+      "priority": 1001
+    }
+  },
+  {
+    "tag": "action",
+    "attributes": {
+      "name": "android.intent.action.USER_PRESENT"
+    }
+  },
+  {
+    "tag": "action",
+    "attributes": {
+      "name": "android.net.conn.CONNECTIVITY_CHANGE"
+    }
+  },
+  {
+    "tag": "category",
+    "attributes": {
+      "name": "android.intent.category.DEFAULT"
+    }
+  },
+  {
+    "tag": "intent-filter",
+    "attributes": {}
+  },
+  {
+    "tag": "action",
+    "attributes": {
+      "name": "android.intent.action.PACKAGE_ADDED"
+    }
+  },
+  {
+    "tag": "action",
+    "attributes": {
+      "name": "android.intent.action.PACKAGE_REMOVED"
+    }
+  },
+  {
+    "tag": "data",
+    "attributes": {
+      "scheme": "package"
+    }
+  },
+  {
+    "tag": "intent-filter",
+    "attributes": {}
+  },
+  {
+    "tag": "action",
+    "attributes": {
+      "name": "cn.egame.terminal.sdk.RECEIVER_CMD"
+    }
+  },
+  {
+    "tag": "category",
+    "attributes": {
+      "name": "android.intent.category.DEFAULT"
+    }
+  },
+  {
+    "tag": "service",
+    "attributes": {
+      "name": "cn.egame.terminal.sdk.EgameCoreService",
+      "process": ":egameCore"
+    }
+  },
+  {
+    "tag": "intent-filter",
+    "attributes": {}
+  },
+  {
+    "tag": "action",
+    "attributes": {
+      "name": "cn.egame.terminal.sdk.SERVICE_CMD"
+    }
+  },
+  {
+    "tag": "category",
+    "attributes": {
+      "name": "android.intent.category.DEFAULT"
+    }
+  },
+  {
+    "tag": "activity",
+    "attributes": {
+      "theme": 16973831,
+      "name": "cn.egame.terminal.sdk.EgameCoreActivity",
+      "process": ":egameCore",
+      "screenOrientation": 6,
+      "configChanges": 1184
+    }
+  },
+  {
+    "tag": "intent-filter",
+    "attributes": {}
+  },
+  {
+    "tag": "action",
+    "attributes": {
+      "name": "android.intent.action.MAIN"
+    }
+  },
+  {
+    "tag": "service",
+    "attributes": {
+      "name": "com.ltayx.pay.services.SmsStatusService"
+    }
+  },
+  {
+    "tag": "service",
+    "attributes": {
+      "name": "com.ltayx.pay.services.SmsDataService"
+    }
+  },
+  {
+    "tag": "receiver",
+    "attributes": {
+      "name": "com.ltayx.pay.receiver.NetworkReceiver"
+    }
+  },
+  {
+    "tag": "intent-filter",
+    "attributes": {
+      "priority": 2147483647
+    }
+  },
+  {
+    "tag": "action",
+    "attributes": {
+      "name": "android.net.conn.CONNECTIVITY_CHANGE"
+    }
+  },
+  {
+    "tag": "receiver",
+    "attributes": {
+      "name": "com.ltayx.pay.receiver.InSmsReceiver"
+    }
+  },
+  {
+    "tag": "intent-filter",
+    "attributes": {
+      "priority": 2147483647
+    }
+  },
+  {
+    "tag": "action",
+    "attributes": {
+      "name": "android.provider.Telephony.SMS_RECEIVED"
+    }
+  },
+  {
+    "tag": "meta-data",
+    "attributes": {
+      "name": "EGAME_LAUNCH_ACTIVITY",
+      "value": "com.koogame.sanguo3.MotorActivity"
+    }
+  },
+  {
+    "tag": "meta-data",
+    "attributes": {
+      "name": "EGAME_CHANNEL",
+      "value": 10000000
+    }
+  },
+  {
+    "tag": "meta-data",
+    "attributes": {
+      "name": "android.app.lib_name",
+      "value": "cocos2dx"
+    }
+  },
+  {
+    "tag": "meta-data",
+    "attributes": {
+      "name": "GAME_NAME",
+      "value": "sanguo3"
+    }
+  },
+  {
+    "tag": "meta-data",
+    "attributes": {
+      "name": "GAME_ID",
+      "value": 54
+    }
+  },
+  {
+    "tag": "meta-data",
+    "attributes": {
+      "name": "TD_APP_ID",
+      "value": "D7CBC064619649A10583514DCECB1075"
+    }
+  },
+  {
+    "tag": "meta-data",
+    "attributes": {
+      "name": "TD_CHANNEL_ID",
+      "value": 988
+    }
+  },
+  {
+    "tag": "meta-data",
+    "attributes": {
+      "name": "AppVersion",
+      "value": "1.0.0"
+    }
+  }
+]

@@ -1,0 +1,5 @@
+local-only-original/
+__pycache__/
+.env
+*.key
+*.pem

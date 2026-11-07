@@ -1,0 +1,10 @@
+{
+  "inventory_entries": 3175,
+  "verified_extracted_files": 2857,
+  "apk_zip_crc": "passed",
+  "resource_zip_crc": "passed",
+  "jsc_zip_crc": "passed",
+  "text_credential_pattern_scan": "no matches (not a guarantee)",
+  "java_native_decompilation": "not performed",
+  "jsc_decompilation": "not performed"
+}

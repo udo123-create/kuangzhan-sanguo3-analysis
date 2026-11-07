@@ -1,0 +1,29 @@
+{
+    "changeByWords1":[{"id":"20004","value":1000},{"id":"20001","value":1}],
+    "changeByWords2":[{"id":"20003","value":500}],
+    "changeByWords3":[{"id":"10502","value":1},{"id":"20004","value":200}],
+    "changeByZongzi1":{
+        "num":10,
+        "gift_bag":[{"id":"20004","value":1000},{"id":"20003","value":10},{"id":"43007","value":1}]
+    },
+    "changeByZongzi2":{
+        "num":30,
+        "gift_bag":[{"id":"20004","value":3000},{"id":"20003","value":20},{"id":"10103","value":9}]
+    },
+    "changeByZongzi3":{
+        "num":50,
+        "gift_bag":[{"id":"20004","value":8000},{"id":"20003","value":30},{"id":"10203","value":9}]
+    },
+    "changeByZongzi4":{
+        "num":100,
+        "gift_bag":[{"id":"20004","value":15000},{"id":"20003","value":50},{"id":"21301","value":5}]
+    },
+    "changeByZongzi5":{
+        "num":300,
+        "gift_bag":[{"id":"20004","value":30000},{"id":"20003","value":100},{"id":"21201","value":10}]
+    },
+    "changeByZongzi6":{
+        "num":500,
+        "gift_bag":[{"id":"20004","value":80000},{"id":"20003","value":150},{"id":"21101","value":15}]
+    }
+}
